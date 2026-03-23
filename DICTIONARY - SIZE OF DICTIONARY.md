@@ -1,4 +1,4 @@
-# Exp.No:16  
+# Exp.No:4a
 ## DICTIONARY - SIZE OF DICTIONARY
 
 ---
